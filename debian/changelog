@@ -1,5 +1,0 @@
-parse-android-dynparts (1.0.0+ubports1) unstable; urgency=low
-
-  * Add initial packaging for Ubuntu Touch.
-
- -- TheKit <thekit@disroot.org>  Sun, 08 Aug 2021 22:26:31 +0300
